@@ -1,4 +1,4 @@
-# 🔫 ・CS2 Config
+#・CS2 Config
 Będzie jak dostanę dostęp :)
 
 > https://sniper13.pl  
