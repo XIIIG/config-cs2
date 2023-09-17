@@ -1,4 +1,4 @@
-#  CS2 Config
+#  Config Counter Strike 2
 Będzie jak dostanę dostęp :)
 
 > https://sniper13.pl  
