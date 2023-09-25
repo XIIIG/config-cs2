@@ -7,7 +7,7 @@ Jeśli interesuje Cię tylko config treningowy, nie umieszczaj pliku autoexec.cf
 # 📥・Instalacja
 1. Pobierz plik, klikając zielony przycisk **Code**, następnie wybierz **Download ZIP**.
 2. Wejdź do katalogu `steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg` \
-Folder z CS2 możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na CS:GO` > `Właściwości` > `Pliki Lokalne` > `Przeglądaj`
+Folder z CS2 możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na CS:GO` > `Właściwości` > `Zainstalowane Pliki` > `Przeglądaj`
 3. Sporządź kopię zapasową swojego poprzedniego pliku **autoexec.cfg**, jeżeli go posiadasz.
 4. Umieść wybrane pliki **cfg** z tego repozytorium w folderze `cfg`.
 5. Aby aktywować config treningowy, wpisz w konsoli `exec trening` lub `exec treninglite`.
