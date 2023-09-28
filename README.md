@@ -22,16 +22,16 @@ Folder z CS2 możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na CS
 | Bind                  | Krótki jego opis                              |
 |-----------------------|-----------------------------------------------|
 | **Z**                 | Nowe koło radia.                              |
-| **X**                 | Wyłączanie/Włączenie voice chat.              |
+| **X**                 | "Wyższy skok".                                |
 | **C**                 | Standardowe Radio.                            |
 | **V**                 | Mówienie na voice chat.                       |
-| **N**                 | Szybkie wyrzucenie paki.                      |
-| **MOUSE3**            | Pingowanie (Scroll).                          |
+| **N**                 | Wycisznie/Wyciszanie graczy.                  |
+| **J**                 | Szybkie wyrzucenie paki.                      |
+| **MOUSE4**            | Pingowanie (Boczny myszy).                    |
 | **MOUSE5**            | Wyciąganie flasha (Boczny myszy).             |
+| **CAPSLOCK**          | Jumpthrow.                                    |
 | **MWHEELUP**          | Skok na scrollu.                              |
-| **TAB**               | Wyświetlanie FPS wraz z tabelą.               |
 | **ALT**               | Noclip - latanie po mapie                     |
-| **F1**                | Automatyczny zakup broni.                     |
 | **F9**                | Sprawdzanie własnego mikrofonu.               |
 | **F11**               | Wczytanie configu treningowego.               |
 
