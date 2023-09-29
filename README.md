@@ -4,6 +4,8 @@ Wstępna wersja configu CS2 - na pewno będą aktualizacje.
 Config do CS2, który możesz wykorzystać jako szablon. Config zawiera przydatne komendy oraz bindy takie jak jumpthrow, usuwanie smoke czy szybkie wyrzucanie bomby.
 Jeśli interesuje Cię tylko config treningowy, nie umieszczaj pliku autoexec.cfg w folderze cfg.
 
+Aby sprawdzić ostatnie zmiany w configu kliknij w **commits** pod zielonym przyciskiem **Code**
+
 # 📥・Instalacja
 1. Pobierz plik, klikając zielony przycisk **Code**, następnie wybierz **Download ZIP**.
 2. Wejdź do katalogu `steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg` \
