@@ -27,6 +27,7 @@ Folder z CS2 możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na CS
 | **V**                 | Mówienie na voice chat.                       |
 | **N**                 | Wycisznie/Wyciszanie graczy.                  |
 | **J**                 | Szybkie wyrzucenie paki.                      |
+| **SHIFT**             | Głośniejsza gra podczas cichego chodzenia.    |
 | **MOUSE4**            | Pingowanie (Boczny myszy).                    |
 | **MOUSE5**            | Wyciąganie flasha (Boczny myszy).             |
 | **CAPSLOCK**          | Jumpthrow.                                    |
