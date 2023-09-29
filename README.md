@@ -37,13 +37,13 @@ Folder z CS2 możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na CS
 
 | Skrót                 | Krótki jego opis                              |
 |-----------------------|-----------------------------------------------|
-| **q, qq**             | Wyjście z gry.                                |
-| **rg**                | Restart gry.                                  |
 | **dc**                | Wyjście z serwera.                            |
 | **rr**                | Ponowne połączenie z serwerem.                |
 | **s**                 | Sprawdzanie ip oraz graczy w konsoli          |
 | **c**                 | Czyszczenie konsoli.                          |
 | **mute**              | Mutowanie przeciwnej drużyny.                 |
+| **sd**                | Usuwanie smoke.                               |
+| **e**                 | Przygotowanie pustego serwera                 |
 | **nazwa mapy**        | Włączenie mapy.                               |
 | **nazwa broni**       | Dodanie broni (sv_cheats 1).                  |
 
