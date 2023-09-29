@@ -1,7 +1,7 @@
 #  Config Counter Strike 2
-Wstępna wersja configu CS2 - na pewno będą aktualizacje.
 
-Config do CS2, który możesz wykorzystać jako szablon. Config zawiera przydatne komendy oraz bindy takie jak jumpthrow, usuwanie smoke czy szybkie wyrzucanie bomby.
+Gotowy config do CS2 z zaktualizowanymi komendami i bindami. Config możesz wykorzystać jako szablon i dowolnie go edytować.
+
 Jeśli interesuje Cię tylko config treningowy, nie umieszczaj pliku autoexec.cfg w folderze cfg.
 
 Aby sprawdzić ostatnie zmiany w configu kliknij w **commits** pod zielonym przyciskiem **Code**
@@ -9,10 +9,10 @@ Aby sprawdzić ostatnie zmiany w configu kliknij w **commits** pod zielonym przy
 # 📥・Instalacja
 1. Pobierz plik, klikając zielony przycisk **Code**, następnie wybierz **Download ZIP**.
 2. Wejdź do katalogu `steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg` \
-Folder z CS2 możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na CS:GO` > `Właściwości` > `Zainstalowane Pliki` > `Przeglądaj`
+Folder z CS2 możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na CS2` > `Właściwości` > `Zainstalowane Pliki` > `Przeglądaj`
 3. Sporządź kopię zapasową swojego poprzedniego pliku **autoexec.cfg**, jeżeli go posiadasz.
 4. Umieść wybrane pliki **cfg** z tego repozytorium w folderze `cfg`.
-5. Aby aktywować config treningowy, wpisz w konsoli `exec trening` lub `exec treninglite`.
+5. Aby aktywować config treningowy, wpisz w konsoli `exec trening` lub `exec treninglite` będąc na serwerze lokalnym.
 
 # ⚠️・Uwagi
 1. Plik konfiguracyjny musi mieć nazwę `autoexec.cfg`, inaczej nie uruchomi się automatycznie.
