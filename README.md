@@ -39,7 +39,6 @@ Folder z CS2 możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na CS
 | Skrót                 | Krótki jego opis                              |
 |-----------------------|-----------------------------------------------|
 | **dc**                | Wyjście z serwera.                            |
-| **rr**                | Ponowne połączenie z serwerem.                |
 | **s**                 | Sprawdzanie ip oraz graczy w konsoli          |
 | **c**                 | Czyszczenie konsoli.                          |
 | **mute**              | Mutowanie przeciwnej drużyny.                 |
