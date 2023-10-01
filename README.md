@@ -4,7 +4,7 @@ Gotowy config do CS2 z zaktualizowanymi komendami i bindami. Config możesz wyko
 
 Jeśli interesuje Cię tylko config treningowy, nie umieszczaj pliku autoexec.cfg w folderze cfg.
 
-[**Changelog configu**]([https://www.sublimetext.com](https://github.com/XIIIG/config-cs2/commits/main)
+[**Changelog configu**](https://github.com/XIIIG/config-cs2/commits/main)
 
 # 📥・Instalacja
 1. Pobierz plik, klikając zielony przycisk **Code**, następnie wybierz **Download ZIP**.
