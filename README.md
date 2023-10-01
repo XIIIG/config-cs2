@@ -35,7 +35,8 @@ Folder z CS2 możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na CS
 | **CAPSLOCK**          | Jumpthrow.                                    |
 | **MWHEELUP**          | Skok na scrollu.                              |
 | **ALT**               | Noclip - latanie po mapie                     |
-| **🔼**               | Przyśpieszenie demka i czasu na serwerze      |
+| **🔼**               | Przyśpieszenie demka i czasu na serwerze       |
+| **🔽**               |   ¯\_(ツ)_/¯                                   |
 | **F9**                | Sprawdzanie własnego mikrofonu.               |
 | **F11**               | Wczytanie configu treningowego.               |
 
