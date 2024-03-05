@@ -58,7 +58,7 @@ Jeżeli szukasz przydatnych komend, których możesz wykorzystać w swoim config
 > https://sniper13.pl/bindy-cs2/ 
 
 # 🤝・Pomoc
-W razie jakichkolwiek problemów lub pytań możesz utworzyć [Issue](https://github.com/XIIIG/config-cs2/issues) na GitHub, lub dołącz na nasz serwer [Discord](https://discord.com/invite/p32E8ru)
+W razie jakichkolwiek problemów lub pytań możesz utworzyć [Issue](https://github.com/XIIIG/config-cs2/issues) na GitHub, lub dołącz na nasz serwer [Discord](https://discord.com/invite/p32E8ru).
 
 # ⭐・Współtwórcy i uznania
 Pliki konfiguracyjne zostały przygotowane przez [Sniper13](https://github.com/XIIIG).  
