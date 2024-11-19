@@ -62,7 +62,7 @@ W razie jakichkolwiek problemów lub pytań możesz utworzyć [Issue](https://gi
 
 # ⭐・Współtwórcy i uznania
 Pliki konfiguracyjne zostały przygotowane przez [Sniper13](https://github.com/XIIIG).  
-Zawartość tego repozytorium została poddana korekcie przez [Sefinek](https://github.com/sefinek24).  
+Zawartość tego repozytorium została poddana korekcie przez [Sefinek](https://github.com/sefinek).  
 Repozytorium zostało opublikowane na licencji MIT. Rób sobie z tym, co tylko zechcesz.
 
 > https://sniper13.pl  
